@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<PackageId>SerializationLib</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>LORD.dev86</Authors>
+		<Description>Utility for simple serialization objects with sync/async API.</Description>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+		<RepositoryUrl>https://github.com/your/repo</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<PackageTags>serialization utility</PackageTags>
+		<Nullable>enable</Nullable>
+		<PackageOutputPath>C:\Users\fna\source\repos\nuget-packages</PackageOutputPath>
+	</PropertyGroup>
+</Project>
