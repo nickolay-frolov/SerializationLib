@@ -1,7 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
 	<PropertyGroup>
-		<TargetFramework>net10.0</TargetFramework>
+		<TargetFrameworks>net6.0;net8.0;net10.0</TargetFrameworks>
 		<PackageId>SerializationLib</PackageId>
 		<Version>1.0.0</Version>
 		<Authors>LORD.dev86</Authors>
@@ -9,10 +8,9 @@
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-		<RepositoryUrl>https://github.com/your/repo</RepositoryUrl>
+		<RepositoryUrl>https://github.com/nickolay-frolov/SerializationLib/</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageTags>serialization utility</PackageTags>
-		<Nullable>enable</Nullable>
 		<PackageOutputPath>C:\Users\fna\source\repos\nuget-packages</PackageOutputPath>
 	</PropertyGroup>
 </Project>
